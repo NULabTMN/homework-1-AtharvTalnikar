@@ -281,7 +281,7 @@
       </result>
       <result>
         <id>
-          https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal&amp;r=0.381,0.68,0.585,0.332,0
+          https://www.loc.gov/resource/sn86061215/1915-07-31/ed-1/?sp=8&amp;q=Death+Electric+Chair+Electrocuted+Executed+Execution+Murdered+Rosenthal&amp;r=0.381,0.68,0.585,0.332,0
         </id>
         <rel>1</rel>
         <text>
@@ -465,7 +465,7 @@
       </result>
       <result>
         <id>
-          https://www.loc.gov/resource/sn83045499/1927-11-12/ed-1/?sp=3&q=Electric+chair&r=0.231,0.515,0.596,0.338,0</id>
+          https://www.loc.gov/resource/sn83045499/1927-11-12/ed-1/?sp=3&amp;q=Electric+chair&amp;r=0.231,0.515,0.596,0.338,0</id>
         <rel>1</rel>
         <text>
           ELECTRIC CHAIR IS BARBAROUS,
@@ -609,14 +609,48 @@
       <result>
         <id>
           https://www.loc.gov/resource/sn83030214/1867-04-09/ed-1/?sp=1&amp;q=Russian+Russia+Treaty+Empire+Seward&amp;st=text&amp;r=0.479,-0.086,0.596,0.676,0</id>
-        <rel>0</rel>
-        <text></text>
+        <rel>1</rel>
+        <text>THE RUSSIAN TREATY.
+          BY TRLRGRATE TO TEE TRIBUNE.
+          WASHINGTON, April 8, —Admiral Fox, on Lis return
+          «visit to Russia, told a friend in this city
+          a Cortschakoff had said to him in St. Pe-
+          the territory which Russia owned in
+          from hi
+          that ir
+          Yersburg that
+          America was not only valueless td his Government,
+          an expense and trouble which the Czar
+          would gladly be rid of, and assured him that Russia
+          willing to cede the territory to the United
+          iblie.
+          but was
+          would be
+          States as a gift if it were desirable to the Rept</text>
       </result>
       <result>
         <id>
           https://www.loc.gov/resource/sn84026994/1867-04-12/ed-1/?sp=2&amp;q=Russian+Russia+Treaty+Alaska+gold+mines&amp;st=text&amp;r=0.041,0.11,0.785,0.891,0</id>
-        <rel>0</rel>
-        <text></text>
+        <rel>1</rel>
+        <text>
+          THE RUSSIAN TREATY.
+          This treaty, annexing the Russian posses?
+          sions in North America to the United States,
+          has been ratified, and we have the satisfaction
+          of knowing that when wc do get back into the
+          Union, it will be a considerably larger Union
+          than when wc left it. There appears to be
+          some doubt as to the character and extent of
+          the advantages of which we will then be par?
+          takers. Tho most liberal statement of the i
+          friends of the treaty, embrace positive coal j
+          mines, possible gold mines, a sufficient supply
+          of furs, a surplus of fish, and ice enough to
+          make a national ice-house, and to do away
+          with the necessity of a protective tariff on the
+          domestic manufacture of that very important
+          article.
+        </text>
       </result>
       <result>
         <id>
@@ -698,8 +732,16 @@
       <result>
         <id>
           https://www.loc.gov/resource/sn83025293/1868-07-24/ed-1/?sp=6&amp;q=Boundless+Alaska+Russia+Russian+Treaty+Seward&amp;st=text&amp;r=0.104,0.656,0.217,0.246,0</id>
-        <rel>0</rel>
-        <text>ATTA: NO TEXT AVAILABLE</text>
+        <rel>1</rel>
+        <text>THIS WHOLE BOUNDLESS
+          The House has voted the appropriation
+          of $7,200,000 for Alaska, and it is now
+          past doubt a Territory of the United
+          States. The exchange of treaties took
+          place June 20O, 1867, and the money was
+          to have been paid April 20, 1868, our
+          military forces having, in the meantime,
+          taken possession. </text>
       </result>
       <result>
         <id>
@@ -887,7 +929,7 @@
       </result>
       <result>
         <id>
-          https://www.loc.gov/resource/sn90061309/1899-09-28/ed-1/?sp=2&q=Alaska+Purchase&st=text&r=-0.051,0.314,1.323,1.323,0</id>
+          https://www.loc.gov/resource/sn90061309/1899-09-28/ed-1/?sp=2&amp;q=Alaska+Purchase&amp;st=text&amp;r=-0.051,0.314,1.323,1.323,0</id>
         <rel>1</rel>
         <text>
           TUB ALASKA PURCHASE.
@@ -920,16 +962,758 @@
 
 
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-wright-brothers</id>
     <results>
       <result>
-        <id>/</id>
-        <rel></rel>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn85066387/1903-12-18/ed-1/seq-1/#words=Wright+Orville+flying+flight+FLIGHT</id>
+        <rel>1</rel>
+        <text>
+          AIRSHIP'S
+          FLIGHT IS
+          A SUCCESS
+          Craft Sails Skyward
+          The prob
+          lem of ' aerial flight without the aid of
+          a balloon ' has been solved by Wilier
+          and .Orville Wright of Dayton. Ohio. '
+          To-day at Kitty Hawk, on the coast of
+          North Carolina, they successfully navi
+          gated a "flying machine of their own ln
+          vention-for three. miles in the teeth'of •
+          a mile gale. and. picking
+          .their point of descent, easily landed the
+          'machine there
+          During the trial Wilber Wright occu
+          pied the operator's seat and steered the
+          apparatus. '.
+          - The flight began from a platform con
+          structed upon a 'high sandhill near
+          .Kitty -Hawk. , The: machine was pro
+          pelled by r 'a"gas6lln9 engine In the floor
+          of the car..J ....._.. '
+          - The- first mile was covered and then
+          Orville * Wright'.declared the -Invention
+          was a success; but" it was not until the
+          third rnfle 1 had been accomplished, that
+          the inventor cast his eyes about for a :
+          suitable landing place, found It. and.
+          with' his"; Invention, under perfect can
+          trbU'slowlyT let his machine alight as
+          easily and gracefully as a bird.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn85038615/1903-12-19/ed-1/seq-5/#words=fly+flight+Wilbur+WRIGHT+flying+airship+Wright+Orville+Flight+AIRSHIP+brothers</id>
+        <rel>1</rel>
+        <text>
+          A MACHINE
+          THAT FLIES
+          Big Box Kite, Driven by Six
+          Propellers, Soars the Air at
+          Kitty Hawk.
+          THE JAMESTOWN MEETING
+          Six Congressmen Talk to thc
+          People of Portsmouth About
+          the Bix Virginia Exposition.
+          (Special to Tho Tlmoa-Dlspatcli.) "
+          NORFOLK, VA., Doc, 1S.-A successful
+          trlal'of a flying machine was made yOK
+          te'rday near Kitty Hawk, N. C, by Wllhiir
+          and Orvlll Wright, of Dayton, O. Tho
+          machine flow for threo miles In tho faco
+          of a wind blowing at the registered vo.
+          loclty of twenty-ono miles'an hour, nnd
+          then gracefully, descended to earth al thn
+          ipot selected by tho man In tho navigli
+          tor's car as a sultr^lc landing placo. Tlio
+          machine has no' balloon attachment, hut
+          , gets Its force from propellers worked by
+          a small engine.
+          Preparutijry to. its* flight tho machino
+          was placed upon a platform near Kitty
+          Hawk, N, C. This platform was built on a
+          high sand hill and when all was In rend?'
+          noce, the fastenings to tho machine wnro
+          released, and it started down an inclino.
+          The navigator, Wilbur Wright, then start?
+          ed a small gasoline engine which work-d
+          the propeller?. When the end of tho In?
+          clino was reached tho machino gradually
+          iroso until lt obtained un altitude of
+          sixty feet. In tho face of the strong wind
+          blowing It malntalnod an even speed of
+          eight miles an hour. The Idea of the box
+          kite has been adhered to In the basic
+          formation of tho flying machino. ?' hu ko
+          frame work of light timbers, thirty-three
+          feet wide, five ' feet deop ond f|yn' foot
+          ncross tho top forms thc machine pro;:
+          This Is covered with a tough, but light
+          canvas. In the center, and suspended Just
+          below tho bottom plan Ls the small gaso
+          lino engine which furnishes thc motive
+          power for tho propelling and elevating
+          , wheels. Thoro are six blade propellers.
+          one arranged Just bolow the center of the
+          frame, so gauged aa to exert an upward
+          force when In motion, and tho other
+          tends horizontally to tho rear from tlio
+          center of the cur, furnishing the forward
+          impetus.
+          Protruding from thc center of the? oar'
+          la a huge fan-shaped rudder..gtypnyff?.
+          stretched upon a framo of woocl.'TnTa rud?
+          der Is controlled by the navigator? and?
+          may be moved to each side, raised or low-'
+          ered.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn84026749/1903-12-19/ed-1/seq-10/#words=flying+flight+Wilbur+Wright+FLYING+flights+Wrights+Orville</id>
+        <rel>1</rel>
+        <text> HIGH GALE NO BAR BARTO BARTO BARTO TO FLYING i iOrville MAGHINE MAGHINEOnme
+          ARIEOrville Orville and Wilbur Wrights Airship AirshipSails Airshipai1s AirshipSails Sails
+          ai1s Against a Twentyone TwentyoneMile Twent TwentyoneS one oneMile S Mile Wind WindKITTY
+          WindKITTY WindKITTY KITTY HAWK N C Dec 19 9Thc 19Thelflghly 9Thchighly The Thehighly
+          highly successful uccessfu1 flights made I1adcby by Or Orvlllo 01vmo Orillie vlllo and
+          Wilbur Wright Thursday Thursda In Intheir Intheir IntheIr their new n w flying lns machine
+          were made in inthe Inthe Inthe the face of a wind Ind blowing at the therate thorate
+          thcrate rate of twentyone miles an hour hourTho hourTho hourTim Tho spot selected for the
+          final nal experi experiments oxperlZnenth perl perlments ¬ ments was a sand hill kriown as
+          Kill KillDevil KillDevil KillDevil Devil Hill which Is more than one onehundred onchundred
+          onehundred hundred feet high and is probably the thehighest theblghest thehighest highest
+          sand dune on the Atlantic AtlanticCoast AtlanticCoast AtlanticCoat
+          Coast On one Hide the hill slopes slopesgradually slopeslTndunlly slopesgradually
+          gradually to the summit whll vhilO hW on theother the theother theother
+          other it Is almost perpendicular perpendicularTho pbrl1 ndlcular ndlcularThe
+          The flyer was carried to the top of ofthis 01this ofthis
+          this hill and Wilbur Wright took the theoperators theoperators theOperatorO
+          operators place lying lyln down at full fulllength fullength fulllength
+          length in order to rtffluco the resistance resistanceto
+          to the wind No launching apparatus apparatuswas npparatuswas apparatuswas
+          was provided When everything Qltblng was wasready wasready wasready
+          ready Orville Wright rIght gave the th machine machinea
+          a 0 push the engine was as started and the theflyer theullyer theIlyor
+          ullyer flyer started down the incline inclineAs InclineAs InclineAsthe
+          As Asthe the propeller under the eqglno In Increased Incressed n ncreased ¬
+          creased its rovoluitions the machine macblnetpse macblnetpsesteadU jpse jpsesteadily pse
+          psesteadily
+          steadU steadily in the air until it reached a aheight aheight aheight
+          height of about sixty feet Then pro propelled propelled propelled ¬
+          pelled by the th rftr propeller propellarthe the machine machinewas machineas machtnwas
+          was as sent sont aheadin ahll ahend dl in the face of c the wind windand wIndand windand
+          and the operator was able ble to direct its itsflight Its1111ht Itsflight
+          flight at willltalntalnlng will willMaintaining willMaintaining
+          Maintaining a speed spee l of about eight eightmiles olghtmUes eightmiles
+          miles an hour the machine was driven drivenfor drhcntor drIvenfor
+          for about three miles Then the opera operator op operator n ntor ¬
+          tor selected a suitable spot pot on whjch whjchto wllchto wlIchto
+          to land steered the machine to It and anddescended anddescended anddescended
+          descended to the ground without the theleast thecastdlfficuIU theleast
+          least castdlfficuIU difficulty and without 1thout straining strainingthe strnlnfr
+          strainingthe g gthe
+          the flyer ft or at any moment momentIN moment momeJltLABOR momentABOR
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn83045366/1904-01-06/ed-1/seq-1/#words=fly+flight+Brothers+WRIGHT+flying+Orville+Wright+flights+AIRSHIP+Wilbur</id>
+        <rel>1</rel>
+        <text>
+          AIRSHIP WAS A
+          GREAT SUCCESS
+          _*.
+          The Vj'right Brothers Give Out a
+          Statement Regarding Their
+          Recent Experiments.
+          Their Machine Succeeded in Travel
+          ing Into the Teeth of a
+          Winter Gale.
+          Dayton, Ohio Jan 6The Wright
+          biothen inventors of a flying ma
+          chine which has attiacted widespread
+          attentiom haVe prepared the follow
+          ing whuch they say is the first correct
+          statement of the two successful trials
+          made tav them
+          On the morning of Tec 17 four
+          flights were made, two by Orville
+          Wright and two by Wilbur Wright
+          The starts weie all made from a point
+          on the 'level. The wind had a velocity
+          of fion^ 24 to 7 miles an hour, as re
+          coided by the aerometei at the Kitty
+          Hawk-weathei station The flight was
+          made directly againbt the wind"
+          Each time the machine started
+          from th level giound by its own
+          power with no assistance fiom grav
+          ity or olhei soui ce whatevei. After
+          a run of about forty feet along a
+          mono-rail tiack which held the ma
+          chine eight inches from the giound,
+          It rose and undei the direction of the
+          opeiatoi limbed upwaid till a height
+          of eight ten feet fiom the ground
+          was iearlied, after which the course
+          was kept as neai horizontal as the
+          wind gust' and the limited skill of the
+          operator nould peimit
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn84026749/1904-01-07/ed-1/seq-3/#words=fly+fliGHT+Wilbur+brother+fli+Wright+flights+flight+brothers</id>
+        <rel>1</rel>
+        <text>
+          OHIO UiIo INVENTORSGLAIrI INVENTORSGLAIrISUCCESS I1iTE1E18 LA1 LA1UPJE8
+          SUCCESS IN fliGHT fliGHTStatoment FLIGHTStatement
+          Statement by Wright Bros of Dayton DaytonRelative DaytonRelative DaytonRelative
+          Relative to Use of Their Aerodrome Aerodromein
+          in North Carolina CarolinaA Carol a aA
+          A statement has at last been i iby issued IMtUUby issuedby
+          by Orvllle And Wilbur Wright rlght the th two tvoinventors twoInventors twoinventors
+          inventors whose successful 8Ucce ful flights in In an anaerodrome anaero anaerodrome
+          aerodrome aero rome were made while Prof Lang Langley 14AngleY Langley
+          ley was trying tr lng to make his buzzard buzzardfly buzzardfly buzzardfly
+          fly over oe the Potomac The Inventors Inventorsare
+          are now In their home at Dayton Da ton Ohio OhioThe OhioThe OhioThe
+          The statement relates that on the themorning thlmorning themorning
+          morning of December D cember 17 between betwe n 1030 1030oclock 1030oclock 1030oclock
+          oclock and noon four successful flights flightswere fIIghtHwere tightswere
+          were made two by b each brother near nearJCatylwwk neArKlttyhawk nearKittyhawk
+          JCatylwwk N C The machine was wasstarted wasasfartetl wassarted
+          started on the level running on a mono monomil monorlll monorail
+          mil track It left the track and rose rosedirectly rosedirectly rosedirectly
+          directly In the teeth of the wind which whichwas whIchwaM whichwas
+          was gusty and blowing between 1 twen twentyfour twentyfour twentyfour ¬
+          tyfour and an twentyseven tw nt Ieen miles nn hour hourThere hourThere hourThere
+          There was no trouble In steering but butfor butfor butfor
+          for reaso rtBIOJ1S s of personal safety the ma machine machine machine ¬
+          chine was not allowed to go more than thanten thanten thanten
+          ten feet above the ground The first ftretflight firstfIIht firstflight
+          flight was short but each succeeding succeedingone
+          one was wa longer longerThe I IThe i iThe
+          The last and longest lon eat flight was maintaitted main maintained malntnhwd ¬
+          tained for fiftynine fift nln6 seconds and car carried carried carrind ¬
+          ried the aeronaut half a mile through throughthe throughthe throughthe
+          the air The exact distance along the therroiiid therolnd therotnd
+          rroiiid rolnd was WI 862 S feet A slight mistake In Insteering InsteerIng insteering
+          steering over a sand dune caused the themachine themachIne themachine
+          machine to swerve downward before beforethe berorethe beforethe
+          the operator intended to land but it itreached Itreached Itreached
+          reached the ground without accident accidentComplete accidenLComplete accidentComplete
+          Complete success Is claimed by the thebrothers thebrothers thebrothers
+          brothers They The say they have demon demonstrated demonstrnted demonstrated ¬
+          strated that their machine will rise road readily roadII roadUs ¬
+          ily II will stay staYit in the air as long as de desired desired desired ¬
+          sired can be steered at will and can canalight canalight canalight
+          alight without injury InJuI They have spent spon spontheir spenttheir aponttheir
+          their own money mono and time on the ma machine machine machine ¬
+          chine and as It embraces several new newprinciples newprinciples newprinciples
+          principles in aeronautics they tho do not notcare notcare notcare
+          care to explain its workings at the pres present present ¬
+          ent time timeJUST
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn93067846/1904-01-13/ed-1/seq-7/#words=Wright+brothers</id>
+        <rel>1</rel>
+        <text>
+          The Wright Brothers Declare that
+          They Have Solved the Problem
+          of Navigating the Air.
+          "Dayton, O., Jar. 6.-The Wright
+          -brothers, inventors ot' the flying'
+          machine which has attracted such
+          widespread attention, have prepared
+          the following, which they say is the
+          first correct statement cf the successful
+          trials made by them:
+          "On the morning of Dec. 17, between
+          10.30 and noon, four flights were made,
+          two by Orville Wright and two by Wil?
+          bur Wright. The starts were ail made
+          from a point on the level and about
+          200 feet west of our camp, which is
+          situated a quarter of a mile north of
+          Kill Devil Sand, in Dare county, N.
+          C. The wind at the time of the flight
+          had a velocity of 27 miles an hour at
+          10 o'clock and 24 miles an hour at
+          noon as recorded by the anemometer
+          at the Kitty Hawk weather bureau
+          station. This anemometer is 30 feet
+          from the ground. Our own measure?
+          ments, made with an anemometer at a
+          height of fbur feet from the ground,
+          showed a velocity of about 22 miles
+          when the first flight was made and
+          22f^ when the last flight was made.
+          The flight was made directly against
+          the wind. Each time the machine
+          started from the level ground by its
+          own power with no ssistance from
+          gravity or other source whatever.
+          After a run of about 40 feet along the
+          monorail track which held the ma?
+          chine eight inches from the groundd,
+          it rose from the track and under th&amp;
+          direction of the operator climbed up?
+          ward on an inclined course until a
+          height of eight or ten feet from the
+          ground was reached, after which the
+          course was kept as near horizontal as
+          the wind gusts and the limited skill
+          of the operator would permit. Into
+          the teeth of a 25-mile gale the 'flyer'
+          made its way forward with a speed of
+          10 miles an hour over the ground and
+          30 to 35 miles an hour through the air.
+          It had previusiy been decided that for
+          reasons of personal safety these first
+          trials should be made as close to the
+          ground as possible. The height chosen
+          was scarcely sufficient for manoeuver
+          ing in so gusty a wind and with no
+          previous acquaintance with the con?
+          duct of the machine and its controll?
+          ing mechanism. Consequently the first
+          flight was short. The succeeding
+          flights rapidly increased in length and
+          at the fourth trial a flight of 59 sec?
+          onds was made in which the machine
+          flew a little more than half a mile
+          through the air and a distance of more
+          than 852 feet over the ground. The
+          landing was due to a slight error o?
+          judgment on the part of the operator.
+          After passing over a little hummock
+          of sand in attempting to bring the
+          machine down to the desired height
+          the operator turned the rudder too far
+          and the machine turned downward
+          more quickly than had been expected.
+          The reverse movement of the rudder
+          was a fraction of a second too late to
+          prevent the machine from touching
+          the ground and thus ending the flight.
+          The whole occurrence occupied little
+          if any more than one second of time.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn85066387/1904-10-09/ed-1/seq-13/#words=Flight+Brothers+flight+aeroplaning+flying+brother+aeroplanes+Wright+aeroplane+aeronautic+Aeroplanes+aeronaut+brothers</id>
+        <rel>1</rel>
+        <text> FLYING MACHINE THAT FLIES a cloth at top and bottom. It is buoyant enough of Itself
+          to float its own weight and that of one man. During their .three years of experiments, the
+          broth ers had added considerably to their knowledge of air currents and of the resistance
+          of canvas. Keeping , these things in view, they designed and built their propelling
+          apparatus. One pro peller, revolving horizontally, is placed underneath the center of the
+          machine's than forty feet from tip to tip. and it weighs, entirely equipped, about seven
+          hundred pounds. The achievement marks an impressive step in advance toward the every-day
+          navigation of the air. ..The test in question was made at Kitty Hawk, in North Carolina.
+          In the neighborhood of which place the ma chine was. launched from the top of a high sand
+          dune. The aeroplane first took a downward course, but as the propeller under the engine
+          increased its revolutions, began to rise slowly and steadily into the air. When the
+          machine was sixty feet • above the ground the rear propeller began to do Its work, sending
+          the "flyer" for ward against the wind. Wilbur Wright was able to steer his craft as he
+          pleased, with the aid of the horizontal steering csar — a3 shown in our illus tration —
+          and after golns three miles brought the machine gentry to the ground without difficulty or
+          mishap. Professor Langley and Maxim ex perimented along the Hne3 of a real flyinj machine,
+          as distinct from the dirigible balloon3 of Santos-Dumont and Lebaudy. But the eminent
+          scien tist and the brilliant Inventor, with fortunes at their disposal, have not been
+          rewarded with the success of these amateurish mechanicians. A ma chine, not a hiie. th^t
+          propels Itself against a strong v.inl. b under steer
+          age control, and lands without con
+          verting itself into a scrap heap, la
+          something new under the sun. — Col
+          liers.
+          TO sail three miles through the
+          air at a speed of eight miles
+          an hour against a breeze
+          blowing twenty-one miles an
+          hour is the most notable achievement
+          in flying-machine experiments. Three
+          years ago, two brothers named Wright,
+          of Dayton, Ohio, went down among the
+          sandhills of the North Carolina coast.
+          They, were expert mechanics, and
+          brought their own tools and machinery.
+          They had studied the experiments of
+          flying-machine inventors here and
+          abroad. ¦
+          The machine, in which the operator
+          lies at full length, is in some ways like
+          a box. kite with a rudder Instead of a
+          tail. The framework is covered with
+          body. The other is like the screw of a
+          steamship, whirling vertically at the
+          rear. .
+          The machine is launched from a
+          hill by merely pushing off. It can
+          be .pointed in any direction and can be
+          landed at will, it is strong enough to
+          stand the strain of repeated trips, and
+          its wings have been tested with- six
+          times the load they carried last
+          month. The horizontal position of the
+          man in the machine saves about one
+          half horsepower by diminishing the
+          ivind resistance. The Wrights have
+          used larger cloth surfaces than their
+          predecessors. Their successful ma
+          chine has. three hundred square feet
+          of cloth.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/2010270500/1908-06-19/ed-1/seq-7/#words=Wright+aeroplane+glider</id>
+        <rel>1</rel>
+        <text>
+          SECBET OF AEROPLANE.
+          Wright Drothera Alrahtp la D
+          acribed by Builder.
+          What purports to be a complete de
+          scription of the Wright brothers' suc
+          cessful aeroplane has been given out
+          The description was taken from draw
+          ings and descriptions filed with the
+          French patent office when application
+          WILBUR WEIGHT. OBVILLE WRIGHT.
+          was made for patents which the
+          French government Issued last Janu
+          ary.
+          To the partial description of the in
+          vention given by tho Wrights them
+          selves, but one new fact is ndvnnced,
+          the plan by which the aviator is en
+          abled to maintain the euqlllbrlum of
+          the aeroplane despite sudden and varl
+          abled to maintain the equilibrium of
+          by menns of building the main planes
+          In three sections, tho center one of
+          which Is rigid while the other winga
+          are so pivoted that a turn of a wheel
+          at the operator's hand causes one
+          wing to lift slightly while the other Is
+          correspondingly depressed, thereby In
+          creasing the angle of resistance in one
+          wing and decreasing it In the other
+          the effect of which Is to return the ma
+          chine to an even keel. '
+          Prevention of a rotary movement be
+          ing given to the machine by tho action
+          of the air currents on the wings Is
+          effected by a "finh-taH" rudder that Is
+          set at the rear of the machine and is
+          connected by cables with a similar
+          rudder on the front of the machine.
+          length of those on French flyers. Thla
+          consists In different models of dm or
+          two rertjcnl cloth-covered frame.
+          "At the rear, balancing the machine
+          and as near the center as possible, are
+          two propeller. Ilelow tho frame work
+          and toward tlfb rear Is a skid, similar
+          to the runners of sleds. This is used
+          for landing and differs In this par
+          ticular from the French machines.
+          which are equipped with wheels. For
+          a portion of twelve feet at each end
+          the tipper and lower frame work Is
+          provided with a aurface of strong cot
+          ton cloth.
+          'In the center of the machine at the
+          bottom Is a small double-wheel truck,
+          which, running on a monorail. Is used
+          while the machine Is acquiring speed
+          enough to leave the ground. The
+          monorail Is easily movable In any direction.
+          "The Wright machine weighs about
+          800 pounds, and In addition to Its own
+          weight, Including a four-cylinder mo
+          tor of between twenty-five and thirty
+          horsepower, devised and mado try the
+          Wright brothers, the machine can carry
+          two men and fuel enough to drive the
+          machine 800 miles. It can carry
+          enough fuel with one man aboard to
+          travel 500 miles."
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn83030214/1905-06-21/ed-1/seq-6/#words=Flight+Brothers+flight+aeroplaning+flying+brother+aeroplanes+Wright+aeroplane+aeronautic+Aeroplanes+aeronaut+brothers</id>
+        <rel>1</rel>
+        <text> AERONAUTIC EXPERIMENTS. Inventors who wish to utilize the aeroplane In navigating the
+          air will do well to take note of an expedient tried a few days ago by a Fren?_hman. He
+          demonstrated that by conduct? ing experiments over the water other advan? tages might be
+          secured than the one pointed out long ago by ?dhanute, an American engineer. Not only can
+          the aeronnut who adopts that pre? caution dimmish thereby the risk of Injuring himself and
+          his apparatus if he has a fall, but he can also facilitate the operation of launch? ing.
+          M. Voisin, to whose recent attempts ref? erence is made, adjusted his apparatus lightly on
+          a small raft on the Seine, and employed a fast motor boat to tow him. The proceeding was
+          very much like flying a kite. As soon as the outstretched planes of M. Yoisin's machine
+          acquired a rapid forward motion it rose gently. Being well balanced, it attained an
+          el??vation of eighty f?2et In a few seconds, and then slowly descended, the headway gained
+          before casting off the towiope s-arving to drive it about one thousand feet. Before a
+          flying machine can be said to lie reasonably successful it must show that It will travel
+          In a generally horizontal direction, that it can be steen-d, and that it is so p-arfoctly
+          uuder control that it will land gracefully where its pilot wish.-s. i'.tit th?* first
+          essential is to start. With airships of the type wMdi Beatos iMimont and di?? ].. l.auly
+          brothers h:ive. uswl
+          the operation of launching is an easy one. The
+          unfortunate consequences of Mr. Manlys his?
+          toric attempt to exhibit the merits of Pro?
+          fessor Langley s machine eighteen or twenty
+          months ago illustrate the d.i?iculties of eff-ect?
+          Ing an ascent with the aeroplane. Reliance
+          was placed by him on powerful springs, to
+          hoist the apparatus as well as to send it for?
+          ward, at tho Instant of starting, and it was
+          hoped that the gasolene engines and screw
+          propellers would do the rest. They did not,
+          however, although the aerodrome may have
+          derived some benefit from Its having been
+          mounted previously on the roof of a house?
+          boat. If it had rested on a raft designed so
+          that it could be drawn quickly througii the
+          water, perhaps it might have been persuaded to
+          rise and show what it could do.
+          The experiment made by M. Voisin in the
+          ; vicinity of Paris is only one of many which
+          | may be expected during the season which has
+          | now opened. The aeroplane which was tested
+          j last week resembles in a mensure that of the
+          ? Wright brothers, of Dayton, Ohio. Its de?
+          signer Is M. Ernest Archdeacon, a well known
+          French devotee of aeronautic science. Other
+          machines of the same class have been planned,
+          if not already built, to compete for a prize of?
+          fered by M. Deutsch. To the man who first
+          succeeds ln travelling one kilometre and re?
+          turning over the same course with an aero?
+          plane he will give $5,000. M. Archdeacon has
+          tried to raise a similar sum by popular sub?
+          scription for kindred purposes. Five thousand
+          dollars may not go far toward reimbursing an
+          inventor for his outlay In ventures of this kind,
+          but a great stimulus will be Imparted to in?
+          genuity and ambition by the chance of win?
+          ning the fame which would accompany these
+          prizes.
+          Such encouragement certainly ought to ex?
+          ert much influence. The cigar shaped gasbag
+          has now attained a development which gives a
+          fair indication of its possibilities. The improve?
+          ment of it will hereafter be little more than
+          a matter of detail. The problems presented by
+          the aeroplane have not been worked out so
+          fully. In order to demonstrate whether it will
+          ever realize the hopes of Its champions a good
+          deal of study and practical work is yet needed,
+          and it is gratifying to see a prospect of fresh
+          endeavor in that direction.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://chroniclingamerica.loc.gov/lccn/sn84031081/1911-11-09/ed-1/seq-6/#words=Wright+experiment+glider</id>
+        <rel>1</rel>
+        <text>THK WKM.IITV KXritltlMKXTS.
+          Juat to ht t nt aviation hU-t.-rv
+          jmaa made by the Wright brothers at
+          k-m.t.vil Hit! In X'orth Carolina, on
+          Tueedav. when orvtlle Wright held
+          hi iivtorU-ss biplane, or glider, prac
+          tically stationary in the air fur ten
+          minutea In the teeth of a fifty-mile
+          gale. It Is Impossible definitely to tell
+          In the absence of detail a to the ex-
+          at t nature of the experiment, w hich
+          the Wright to far have been unwill
+          ing to make public. The San Fran
+          rleco Chronicle av:
+          These experiment have from the
+          first puuled most persons interested
+          in the progress "f aviation, beeaus
+          the installment of a motor in the
+          Wright biplane made flying a practic
+          al success and no motor 1 used in
+          the machine whbh la being tested in
+          the Kitty Hawk sandhills. It is evl-
+          denr. however, that, for the purpose
+          of pel fet ting the motor-driven ma
+          chine, th" Wright are going back to
+          first principles In search of a way in
+          which to keep an aeroplane automat
+          ically upon an even keel.
+          With the secrecy which ha charact
+          er lied all the experiment or tnc
+          Wright brother, they have not vet
+          seen fit t' grainy puonc turtwny j
+          describing the construction of their
+          new glider. It 1 understood, howev
+          er, that In some respect their con
+          trivance resemble the "aileron" de
+          vice In use cm a number of ether ma
+          chine. Thege aileron are mull flaps
+          which are attached to the main plane,
+          and, when a gust of wind tilt tne
+          airship out of balance, one flops
+          downward while the other goes up.
+          Hit make a difference in the air re
+          sistance and tends to restore the nero-
+          plane to It normal level.
+          The device of the Wright brother
+          I said to apply this principle ny
+          mean of the tme of a pendulum u-j
+          pended below the aeroplane. The tip-
+          per (ml of the pendulum rod I con
+          nected with the aileron and a the;
+          aeroplane dip from aide to lde grav
+          ity cause the pendulum to awing.
+          Thl swinging would have a tendency
+          to operate the ailerons up and down
+          and to restore stability.
+          Vnttl very recently aviator have
+          looked upon automatic balancing de
+          vice with dlfavor, a none of them
+          had succeeded In restoring the equi
+          librium of an aeroplane after It had
+          been lost. A sudden xust of wind or
+          an "air pocket," It was aald, would
+          do the fatal work In less than the
+          time whlth the stability device took
+          to operate. Hand control, accordingly,
+          tin been depended upon almost ex
+          clusively in such cae.
+          Kxcept for the gucces which ap
+          parently ha attended the present
+          test of the new Wright glider, there
+          Is nothing very new In their under
+          lying theory. Lillenthal, a few months
+          before he fell to hks death, wrote:
+          "I am now engaged In constructing
+          an apparatus In which the position
+          of the wings can be changed during
+          flight In uch a way that the bal
+          anclng Is not affected by changing the
+          center of gravity of the body, In
+          niy opinion thl mean considerable
+          progress, as It will Increase the safe
+          ty." And Professor John J. Montgom
+          ery of Santa Clara College, Califor
+          nia, one of the pioneer stutients oi
+          aviation In the I'nlted Sttes, was
+          partly successful In evolving a glider
+          that wa able to maintain It equilib
+          rium. None of tho old gliders, however,
+          ev er remained In the air for the space
+          of a minute, whereas Orvllle Wright
+          has succeeded In doing so for ten
+          time that length of time. What i
+          singular, too, about the Wright In
+          vention I that the operator I not
+          trapped Into a harness, In which po
+          sition he would be depended on hi
+          own exertions to make any headway,
+          but occupies a seat and works lever
+          connected with the planes to keep
+          himself aloft.
+          It seems evident that after the
+          Wright' machine has been further
+          tested for equilibrium a motor will be
+          Installed. At present, the Inference
+          Is, the plane and rudder and control
+          appliances are so novel that It Is con-
+          Idered loo hazardous to drive the
+          machine with a motor.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://www.loc.gov/resource/sn88064469/1911-09-05/ed-1/?sp=4&amp;q=Wright+Brothers&amp;r=0.065,0.105,0.617,0.35,0</id>
+        <rel>0</rel>
         <text></text>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
+        <id>
+          https://www.loc.gov/resource/sn88064384/1907-06-08/ed-1/?sp=2&amp;q=Wright+Brothers&amp;st=text&amp;r=0.216,0.178,0.34,0.386,0</id>
+        <rel>1</rel>
+        <text>
+          £f£ Qf MACHINES
+          AERIAL NAVIGATION NEAR, SAYS
+          FRANK H. LAHM.
+          Public Demonstration Expected Soon
+          From the Wright Brothers—Predic
+          tion that Their Work Will Be Ac
+          cepted by the Public.
+          Scientists are expecting soon a
+          public demonstration of the Wright
+          brothers' flying machine, whose re
+          ported success has been a subject of
+          continued controversy on both sides
+          of the Atlantic. Frank H. Lahm, an
+          American resident of Paris, who will
+          be the foreign representative of the
+          Aero Club of America in Europe this
+          year, believes that this trial will set
+          tle once and for all the actual value
+          of the Wright brothers' invention.
+          Mr. Lahm is not given to fads, nor
+          has he wasted much time in idle
+          theory. He is a conservative Ameri
+          can business man, representing one
+          of our largest industries abroad. At
+          the same time, he ia an enthusiastic
+          balloonist. While at home in Ohio
+          on a visit, he called upon the Wrights
+          at Dayton, and talked with bankers,
+          business and professional men of that
+          city who have seen the Wright bro
+          thers operate their invention at will
+          In the air, and make both long and
+          short flights. Mr Lahm declared
+          without reservation his belief in the
+          success of flying machines, that their
+          permanent use is assured, and that
+          the public must take them seriously.
+        </text>
+      </result>
+      <result>
+        <id>
+          https://www.loc.gov/resource/sn87065167/1909-04-21/ed-1/?sp=6&amp;q=Wright+Brothers&amp;r=0.232,0.075,0.416,0.236,0</id>
+        <rel>0</rel>
+        <text></text>
+      </result>
+      <result>
+        <id>
+          https://www.loc.gov/resource/sn82014248/1909-06-11/ed-1/?sp=1&amp;q=Wright+Brothers&amp;st=text&amp;r=0.441,0.288,0.272,0.308,0</id>
+        <rel>1</rel>
+        <text>THE CONGRATULATIONS OF
+          IE AMERICAN PEOPLE
+          Extended to Wilbur and Orville Wright by Presi
+          dent Taft, Who Presents Medals Awarded
+          By the Aero Club of America.
+          Washington, June 10.—The apprecia
+          tion, good will and congratulations of
+          the American people were manifested
+          to Wilbur and Orville Wright, the
+          American aviators, by the President of
+          the United States today.</text>
+      </result>
+      <result>
+        <id>
+          https://www.loc.gov/resource/sn82014248/1908-05-18/ed-1/?sp=1&amp;q=Wright+Brothers&amp;r=0.536,0.111,0.928,0.527,0</id>
+        <rel>0</rel>
         <text></text>
       </result>
     </results>
